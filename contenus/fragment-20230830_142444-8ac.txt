@@ -1,0 +1,38 @@
+date_created: 20230830_142444
+
+----
+
+date_modified: 20230918_140512
+
+----
+
+date_uploaded: 20230830_142444
+
+----
+
+media_filename: fragment-20230830_142444-8ac
+
+----
+
+title: Ici les images
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: balades-sonores.png.txt
+-
+metaFileName: capture-de-cran-2023-09-01-a-16-58-30.png.txt
+-
+metaFileName: capture-de-cran-2023-09-01-a-17-06-45.png.txt
+-
+metaFileName: 2017-02-24-200225-rwpmywil4xgd.png.txt
+
+
+----
+

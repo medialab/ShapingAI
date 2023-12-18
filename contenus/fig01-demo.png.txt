@@ -1,0 +1,28 @@
+date_created: 20230928_165331
+
+----
+
+date_modified: 20230928_165331
+
+----
+
+date_uploaded: 20230928_165331
+
+----
+
+media_filename: fig01-demo.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 355776
+
+
+----
+

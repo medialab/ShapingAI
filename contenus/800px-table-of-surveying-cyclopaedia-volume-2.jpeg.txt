@@ -1,0 +1,34 @@
+date_created: 20230919_223435
+
+----
+
+date_modified: 20230919_223537
+
+----
+
+date_uploaded: 20230919_223435
+
+----
+
+media_filename: 800px-table-of-surveying-cyclopaedia-volume-2.jpeg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 293701
+-
+width: 800
+-
+height: 1016
+-
+ratio: 1.270
+
+
+----
+

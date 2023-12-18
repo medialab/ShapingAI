@@ -1,0 +1,38 @@
+date_created: 20230928_165330
+
+----
+
+date_modified: 20230928_165330
+
+----
+
+date_uploaded: 20230928_165330
+
+----
+
+media_filename: fig02-global-network.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 4000220
+-
+width: 2009
+-
+height: 2106
+-
+ratio: 1.048
+
+
+----
+
+ratio: 1.048
+
+----
+

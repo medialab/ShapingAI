@@ -1,0 +1,34 @@
+date_created: 20231009_194439
+
+----
+
+date_modified: 20231009_194443
+
+----
+
+date_uploaded: 20231009_194439
+
+----
+
+media_filename: roman-roman-roman-art-the-gromatician-a-surveyor-agrimeners-measures-the-land-using-a-gro-meisterdrucke-993738.jpeg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 128700
+-
+width: 744
+-
+height: 1024
+-
+ratio: 1.376
+
+
+----
+

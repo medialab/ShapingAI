@@ -1,0 +1,36 @@
+date_created: 20230912_114416
+
+----
+
+date_modified: 20230925_110253
+
+----
+
+date_uploaded: 20230912_114416
+
+----
+
+media_filename: fragment-20230912_114416-0qx
+
+----
+
+title: captures
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: capture-de-cran-2023-09-12-a-11-42-29.png.txt
+-
+metaFileName: capture-de-cran-2023-09-25-a-10-25-03.png.txt
+-
+metaFileName: vague.jpg.txt
+
+
+----
+

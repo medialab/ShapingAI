@@ -1,0 +1,38 @@
+date_created: 20230925_110230
+
+----
+
+date_modified: 20230925_110252
+
+----
+
+date_uploaded: 20230925_110252
+
+----
+
+media_filename: vague.jpg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 535272
+-
+width: 2480
+-
+height: 3508
+-
+ratio: 1.415
+
+
+----
+
+ratio: 1.415
+
+----
+

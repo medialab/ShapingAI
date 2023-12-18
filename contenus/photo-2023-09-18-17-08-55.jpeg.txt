@@ -1,0 +1,38 @@
+date_created: 20230918_171025
+
+----
+
+date_modified: 20230918_171025
+
+----
+
+date_uploaded: 20230918_171025
+
+----
+
+media_filename: photo-2023-09-18-17-08-55.jpeg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 131766
+-
+width: 1242
+-
+height: 784
+-
+ratio: 0.6312
+
+
+----
+
+ratio: 0.6312
+
+----
+

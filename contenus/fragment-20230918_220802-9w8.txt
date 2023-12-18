@@ -1,0 +1,54 @@
+date_created: 20230918_220802
+
+----
+
+date_modified: 20230928_173209
+
+----
+
+date_uploaded: 20230918_220802
+
+----
+
+media_filename: fragment-20230918_220802-9w8
+
+----
+
+title: presse
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: capture-de-cran-2023-09-18-a-22-17-58.png.txt
+-
+metaFileName: doc00-methodo-protocol-media-fr.pdf.txt
+-
+metaFileName: fig02-global-network.png.txt
+-
+metaFileName: fig01-demo.png.txt
+-
+metaFileName: fig03-scaterplot-ton.png.txt
+-
+metaFileName: fig05-matrix.png.txt
+-
+metaFileName: capture-de-cran-2023-09-28-a-17-15-44.png.txt
+-
+metaFileName: capture-de-cran-2023-09-28-a-17-15-47.png.txt
+-
+metaFileName: capture-de-cran-2023-09-28-a-17-15-49.png.txt
+-
+metaFileName: capture-de-cran-2023-09-28-a-17-15-56.png.txt
+-
+metaFileName: capture-de-cran-2023-09-28-a-17-24-30.png.txt
+-
+metaFileName: capture-de-cran-2023-09-28-a-17-31-54.png.txt
+
+
+----
+

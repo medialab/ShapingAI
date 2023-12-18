@@ -1,0 +1,38 @@
+date_created: 20230925_151803
+
+----
+
+date_modified: 20230925_151803
+
+----
+
+date_uploaded: 20230925_151803
+
+----
+
+media_filename: mains-prises-copy-1.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 568423
+-
+width: 1858
+-
+height: 2114
+-
+ratio: 1.138
+
+
+----
+
+ratio: 1.138
+
+----
+

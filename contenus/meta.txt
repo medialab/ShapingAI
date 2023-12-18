@@ -1,0 +1,36 @@
+name: contenus
+
+----
+
+subtitle: 
+
+----
+
+description: 
+
+----
+
+advanced_data_on_medias: false
+
+----
+
+full_fragment_previews: false
+
+----
+
+date_created: 20230830_142427
+
+----
+
+date_modified: 20231009_210249
+
+----
+
+password: 
+
+----
+
+sort_in_tabs: false
+
+----
+

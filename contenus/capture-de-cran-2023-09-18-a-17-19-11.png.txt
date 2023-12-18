@@ -1,0 +1,32 @@
+date_created: 20230918_172029
+
+----
+
+date_modified: 20230918_172036
+
+----
+
+date_uploaded: 20230918_172029
+
+----
+
+media_filename: capture-de-cran-2023-09-18-a-17-19-11.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 212873
+
+
+----
+
+caption: modèle de l&#x27;action de norman
+
+----
+

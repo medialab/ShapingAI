@@ -1,0 +1,32 @@
+date_created: 20230918_170750
+
+----
+
+date_modified: 20230918_170813
+
+----
+
+date_uploaded: 20230918_170750
+
+----
+
+media_filename: nooscope-1.pdf
+
+----
+
+type: document
+
+----
+
+file_meta: 
+
+-
+size: 2088339
+
+
+----
+
+caption: pasquinelli, joler - nooscope
+
+----
+

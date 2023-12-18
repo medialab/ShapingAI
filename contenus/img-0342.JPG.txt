@@ -1,0 +1,38 @@
+date_created: 20230924_210443
+
+----
+
+date_modified: 20230924_210443
+
+----
+
+date_uploaded: 20230924_210443
+
+----
+
+media_filename: img-0342.JPG
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 489142
+-
+width: 2480
+-
+height: 3212
+-
+ratio: 1.295
+
+
+----
+
+ratio: 1.295
+
+----
+

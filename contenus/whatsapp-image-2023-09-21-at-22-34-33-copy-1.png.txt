@@ -1,0 +1,34 @@
+date_created: 20230921_230320
+
+----
+
+date_modified: 20230921_230400
+
+----
+
+date_uploaded: 20230921_230320
+
+----
+
+media_filename: whatsapp-image-2023-09-21-at-22-34-33-copy-1.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 569933
+-
+width: 1858
+-
+height: 1194
+-
+ratio: 0.6426
+
+
+----
+

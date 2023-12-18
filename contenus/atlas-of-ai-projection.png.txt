@@ -1,0 +1,38 @@
+date_created: 20230918_170826
+
+----
+
+date_modified: 20230918_170834
+
+----
+
+date_uploaded: 20230918_170826
+
+----
+
+media_filename: atlas-of-ai-projection.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 63199
+-
+width: 324
+-
+height: 542
+-
+ratio: 1.673
+
+
+----
+
+caption: joler 
+
+----
+

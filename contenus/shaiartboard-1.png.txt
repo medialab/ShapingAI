@@ -1,0 +1,38 @@
+date_created: 20230925_095248
+
+----
+
+date_modified: 20230925_095248
+
+----
+
+date_uploaded: 20230925_095248
+
+----
+
+media_filename: shaiartboard-1.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 528218
+-
+width: 1052
+-
+height: 1413
+-
+ratio: 1.343
+
+
+----
+
+ratio: 1.343
+
+----
+

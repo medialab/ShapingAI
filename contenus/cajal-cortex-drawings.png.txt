@@ -1,0 +1,34 @@
+date_created: 20230918_213022
+
+----
+
+date_modified: 20230918_213025
+
+----
+
+date_uploaded: 20230918_213022
+
+----
+
+media_filename: cajal-cortex-drawings.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 184867
+-
+width: 672
+-
+height: 777
+-
+ratio: 1.156
+
+
+----
+

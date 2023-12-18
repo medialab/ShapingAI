@@ -1,0 +1,34 @@
+date_created: 20230918_212953
+
+----
+
+date_modified: 20230918_212956
+
+----
+
+date_uploaded: 20230918_212953
+
+----
+
+media_filename: 19braindrawing1-superjumbo.webp
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 412510
+-
+width: 1368
+-
+height: 1880
+-
+ratio: 1.374
+
+
+----
+

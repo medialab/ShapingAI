@@ -1,0 +1,66 @@
+date_created: 20230918_165516
+
+----
+
+date_modified: 20230923_145215
+
+----
+
+date_uploaded: 20230918_165516
+
+----
+
+media_filename: fragment-20230918_165516-fu5
+
+----
+
+title: représentations IA
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: image-2023-07-21-14-19-22.png.txt
+-
+metaFileName: ai-anatomy-map.pdf.txt
+-
+metaFileName: nooscope-1.pdf.txt
+-
+metaFileName: atlas-of-ai-projection.png.txt
+-
+metaFileName: photo-2023-09-18-17-08-55-1.jpeg.txt
+-
+metaFileName: capture-de-cran-2023-09-18-a-17-11-47.png.txt
+-
+metaFileName: capture-de-cran-2023-09-18-a-17-12-33.png.txt
+-
+metaFileName: capture-de-cran-2023-09-18-a-17-19-11.png.txt
+-
+metaFileName: 19braindrawing1-superjumbo.webp.txt
+-
+metaFileName: cajal-cortex-drawings.png.txt
+-
+metaFileName: cajal-retina.jpeg.txt
+-
+metaFileName: picture2.png.txt
+-
+metaFileName: picture3.png.txt
+-
+metaFileName: c57b748caee6db54cdcc176169ca1840.pdf.txt
+-
+metaFileName: image1.png.txt
+-
+metaFileName: neuralnetworkzoo20042019-1.png.txt
+-
+metaFileName: 09-10-104p177-copy.gif.txt
+-
+metaFileName: capture-de-cran-2023-09-18-a-21-43-05-copy.png.txt
+
+
+----
+
