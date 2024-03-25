@@ -1,0 +1,38 @@
+date_created: 20230918_140512
+
+----
+
+date_modified: 20230918_140512
+
+----
+
+date_uploaded: 20230918_140512
+
+----
+
+media_filename: 2017-02-24-200225-rwpmywil4xgd.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 367909
+-
+width: 1280
+-
+height: 720
+-
+ratio: 0.5625
+
+
+----
+
+ratio: 0.5625
+
+----
+

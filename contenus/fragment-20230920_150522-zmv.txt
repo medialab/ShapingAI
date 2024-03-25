@@ -1,0 +1,46 @@
+date_created: 20230920_150522
+
+----
+
+date_modified: 20230924_210444
+
+----
+
+date_uploaded: 20230920_150522
+
+----
+
+media_filename: fragment-20230920_150522-zmv
+
+----
+
+title: methodes d&#x27;enquête
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: capture-de-cran-2023-09-20-a-22-35-48.png.txt
+-
+metaFileName: capture-de-cran-2023-09-20-a-22-40-57.png.txt
+-
+metaFileName: test.png.txt
+-
+metaFileName: capture-de-cran-2023-09-20-a-22-44-55.png.txt
+-
+metaFileName: capture-de-cran-2023-09-20-a-22-47-46.png.txt
+-
+metaFileName: capture-de-cran-2023-09-20-a-22-49-59.png.txt
+-
+metaFileName: photo-2023-09-24-21-00-17.jpeg.txt
+-
+metaFileName: img-0342.JPG.txt
+
+
+----
+

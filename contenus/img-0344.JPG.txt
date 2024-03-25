@@ -1,0 +1,38 @@
+date_created: 20230925_085458
+
+----
+
+date_modified: 20230925_085458
+
+----
+
+date_uploaded: 20230925_085458
+
+----
+
+media_filename: img-0344.JPG
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 542213
+-
+width: 2480
+-
+height: 3212
+-
+ratio: 1.295
+
+
+----
+
+ratio: 1.295
+
+----
+

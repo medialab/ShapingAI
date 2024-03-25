@@ -1,0 +1,36 @@
+date_created: 20230918_171204
+
+----
+
+date_modified: 20230918_171309
+
+----
+
+date_uploaded: 20230918_171204
+
+----
+
+media_filename: capture-de-cran-2023-09-18-a-17-11-47.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 442765
+
+
+----
+
+caption: 
+
+----
+
+source: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;pub-tools-public-publication-data&#x2F;pdf&#x2F;0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf
+
+----
+

@@ -1,0 +1,56 @@
+date_created: 20230914_182446
+
+----
+
+date_modified: 20230929_105304
+
+----
+
+date_uploaded: 20230914_182446
+
+----
+
+media_filename: fragment-20230914_182446-o5v
+
+----
+
+title: dessins
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: 2023-09-14-18-25-04.jpg.txt
+-
+metaFileName: 2023-09-14-18-25-04.png.txt
+-
+metaFileName: whatsapp-image-2023-09-21-at-22-34-33.png.txt
+-
+metaFileName: whatsapp-image-2023-09-21-at-22-34-33-copy.png.txt
+-
+metaFileName: whatsapp-image-2023-09-21-at-22-34-33-copy-1.png.txt
+-
+metaFileName: whatsapp-image-2023-09-21-at-22-34-33-copy-2.png.txt
+-
+metaFileName: 9532569863-a728a66f94-o.png.txt
+-
+metaFileName: vague-def.jpg.txt
+-
+metaFileName: shaivagueartboard-1-copy.png.txt
+-
+metaFileName: mains-prises-copy-2.png.txt
+-
+metaFileName: capture-de-cran-2023-09-26-a-19-47-34.png.txt
+-
+metaFileName: capture-de-cran-2023-09-26-a-19-54-58.png.txt
+-
+metaFileName: capture-de-cran-2023-09-29-a-10-52-46.png.txt
+
+
+----
+

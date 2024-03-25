@@ -1,0 +1,34 @@
+date_created: 20230925_095138
+
+----
+
+date_modified: 20230925_095207
+
+----
+
+date_uploaded: 20230925_095138
+
+----
+
+media_filename: shai2artboard-1.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 540100
+-
+width: 1052
+-
+height: 1413
+-
+ratio: 1.343
+
+
+----
+

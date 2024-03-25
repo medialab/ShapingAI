@@ -1,0 +1,42 @@
+date_created: 20230918_225915
+
+----
+
+date_modified: 20230918_225938
+
+----
+
+date_uploaded: 20230918_225915
+
+----
+
+media_filename: image1.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 252657
+-
+width: 1359
+-
+height: 604
+-
+ratio: 0.4444
+
+
+----
+
+caption: Le Système basé sur l’Intelligence Artificielle et son moteur à 4 temps
+
+----
+
+source: https:&#x2F;&#x2F;hellofuture.orange.com&#x2F;fr&#x2F;plaidoyer-pour-une-ia-ethique-et-responsable-des-la-conception&#x2F;
+
+----
+

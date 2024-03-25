@@ -1,0 +1,38 @@
+date_created: 20230918_223841
+
+----
+
+date_modified: 20230918_223841
+
+----
+
+date_uploaded: 20230918_223841
+
+----
+
+media_filename: picture2.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 382014
+-
+width: 1384
+-
+height: 2048
+-
+ratio: 1.480
+
+
+----
+
+ratio: 1.480
+
+----
+

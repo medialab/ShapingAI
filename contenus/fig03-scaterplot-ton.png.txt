@@ -1,0 +1,28 @@
+date_created: 20230928_165333
+
+----
+
+date_modified: 20230928_165333
+
+----
+
+date_uploaded: 20230928_165333
+
+----
+
+media_filename: fig03-scaterplot-ton.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 547432
+
+
+----
+

@@ -1,0 +1,38 @@
+date_created: 20230918_223842
+
+----
+
+date_modified: 20230918_223851
+
+----
+
+date_uploaded: 20230918_223842
+
+----
+
+media_filename: picture3.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 577066
+-
+width: 1200
+-
+height: 965
+-
+ratio: 0.8042
+
+
+----
+
+source: https:&#x2F;&#x2F;www.noemamag.com&#x2F;blueprints-of-intelligence&#x2F;
+
+----
+

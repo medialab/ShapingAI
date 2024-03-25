@@ -1,0 +1,28 @@
+date_created: 20230925_091754
+
+----
+
+date_modified: 20230925_091756
+
+----
+
+date_uploaded: 20230925_091754
+
+----
+
+media_filename: capture-de-cran-2023-09-25-a-09-17-19.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 7323
+
+
+----
+

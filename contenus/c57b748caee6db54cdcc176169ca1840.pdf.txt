@@ -1,0 +1,36 @@
+date_created: 20230918_225749
+
+----
+
+date_modified: 20230918_225808
+
+----
+
+date_uploaded: 20230918_225749
+
+----
+
+media_filename: c57b748caee6db54cdcc176169ca1840.pdf
+
+----
+
+type: document
+
+----
+
+file_meta: 
+
+-
+size: 475837
+
+
+----
+
+caption: pasquinelli
+
+----
+
+source: https:&#x2F;&#x2F;arena-attachments.s3.amazonaws.com&#x2F;7266033&#x2F;c57b748caee6db54cdcc176169ca1840.pdf?1589357281
+
+----
+

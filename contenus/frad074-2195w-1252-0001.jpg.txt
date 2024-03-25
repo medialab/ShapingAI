@@ -1,0 +1,34 @@
+date_created: 20230919_222402
+
+----
+
+date_modified: 20230919_222406
+
+----
+
+date_uploaded: 20230919_222402
+
+----
+
+media_filename: frad074-2195w-1252-0001.jpg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 6153587
+-
+width: 10000
+-
+height: 7982
+-
+ratio: 0.7982
+
+
+----
+

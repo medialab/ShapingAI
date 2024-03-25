@@ -1,0 +1,60 @@
+date_created: 20230919_221203
+
+----
+
+date_modified: 20231009_210249
+
+----
+
+date_uploaded: 20230919_221203
+
+----
+
+media_filename: fragment-20230919_221203-c2x
+
+----
+
+title: foncier innovant
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: 2023-09-04-12-17-47.jpg.txt
+-
+metaFileName: capture-de-cran-2023-09-19-a-22-19-03.png.txt
+-
+metaFileName: frad074-2195w-1252-0001.jpg.txt
+-
+metaFileName: document-d-arpentage.jpeg.txt
+-
+metaFileName: 800px-table-of-surveying-cyclopaedia-volume-2.jpeg.txt
+-
+metaFileName: 20230227-s2023-0028-taxes-foncieres.pdf.txt
+-
+metaFileName: layer-0.png.txt
+-
+metaFileName: layer-1.png.txt
+-
+metaFileName: carte-dgfip-04.png.txt
+-
+metaFileName: capture-de-cran-2023-10-09-a-12-13-34.png.txt
+-
+metaFileName: map-dessin-v2-copy.png.txt
+-
+metaFileName: prony-tables-thb.jpeg.txt
+-
+metaFileName: cadastre-de-bertier-de-sauvigny-plan-de-bessancourt-et-fre-pillon-1.jpg.txt
+-
+metaFileName: roman-roman-roman-art-the-gromatician-a-surveyor-agrimeners-measures-the-land-using-a-gro-meisterdrucke-993738.jpeg.txt
+-
+metaFileName: capture-de-cran-2023-10-09-a-21-02-23.png.txt
+
+
+----
+

@@ -1,0 +1,38 @@
+date_created: 20231009_194428
+
+----
+
+date_modified: 20231009_194428
+
+----
+
+date_uploaded: 20231009_194428
+
+----
+
+media_filename: cadastre-de-bertier-de-sauvigny-plan-de-bessancourt-et-fre-pillon-1.jpg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 1228291
+-
+width: 2560
+-
+height: 1820
+-
+ratio: 0.7109
+
+
+----
+
+ratio: 0.7109
+
+----
+

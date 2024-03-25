@@ -1,0 +1,38 @@
+date_created: 20230921_232515
+
+----
+
+date_modified: 20230921_232515
+
+----
+
+date_uploaded: 20230921_232515
+
+----
+
+media_filename: layer-0.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 1207196
+-
+width: 1000
+-
+height: 748
+-
+ratio: 0.7480
+
+
+----
+
+ratio: 0.7480
+
+----
+

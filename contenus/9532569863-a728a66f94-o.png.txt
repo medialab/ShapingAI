@@ -1,0 +1,38 @@
+date_created: 20230923_153711
+
+----
+
+date_modified: 20230923_153711
+
+----
+
+date_uploaded: 20230923_153711
+
+----
+
+media_filename: 9532569863-a728a66f94-o.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 11452
+-
+width: 750
+-
+height: 750
+-
+ratio: 1.000
+
+
+----
+
+ratio: 1.000
+
+----
+

@@ -1,0 +1,28 @@
+date_created: 20230925_124342
+
+----
+
+date_modified: 20230925_124342
+
+----
+
+date_uploaded: 20230925_124342
+
+----
+
+media_filename: fli-pause-giant-ai-experiments-an-open-letter.pdf
+
+----
+
+type: document
+
+----
+
+file_meta: 
+
+-
+size: 544097
+
+
+----
+

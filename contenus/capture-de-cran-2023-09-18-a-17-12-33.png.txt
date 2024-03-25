@@ -1,0 +1,32 @@
+date_created: 20230918_171244
+
+----
+
+date_modified: 20230918_171253
+
+----
+
+date_uploaded: 20230918_171244
+
+----
+
+media_filename: capture-de-cran-2023-09-18-a-17-12-33.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 800363
+
+
+----
+
+caption: Image by Julie Bang © Investopedia 2019
+
+----
+

@@ -1,0 +1,32 @@
+date_created: 20230906_164415
+
+----
+
+date_modified: 20230906_164431
+
+----
+
+date_uploaded: 20230906_164415
+
+----
+
+media_filename: fragment-20230906_164415-a56
+
+----
+
+title: photos wp
+
+----
+
+type: fragment
+
+----
+
+medias_slugs: 
+
+-
+metaFileName: capture-de-cran-2023-09-06-a-16-43-36.png.txt
+
+
+----
+

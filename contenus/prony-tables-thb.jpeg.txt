@@ -1,0 +1,34 @@
+date_created: 20231009_194405
+
+----
+
+date_modified: 20231009_194408
+
+----
+
+date_uploaded: 20231009_194405
+
+----
+
+media_filename: prony-tables-thb.jpeg
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 32168
+-
+width: 278
+-
+height: 400
+-
+ratio: 1.439
+
+
+----
+

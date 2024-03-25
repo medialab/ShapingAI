@@ -1,0 +1,28 @@
+date_created: 20230928_165336
+
+----
+
+date_modified: 20230928_165336
+
+----
+
+date_uploaded: 20230928_165336
+
+----
+
+media_filename: fig05-matrix.png
+
+----
+
+type: image
+
+----
+
+file_meta: 
+
+-
+size: 332112
+
+
+----
+
